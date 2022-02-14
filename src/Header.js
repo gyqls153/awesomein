@@ -17,7 +17,7 @@ const Header = () => {
         </div>
       </div>
       <div className="Header__mid">
-        <img src={process.env.PUBLIC_URL + `assets/imgs/72-13.png`} />
+        <img src={process.env.PUBLIC_URL + `assets/imgs/150-13.png`} />
       </div>
 
       <div className="Header__bottom">

@@ -1,4 +1,7 @@
 import IconText from "./IconText";
+
+
+
 const Header = () => {
   return (
     <div className="Header">
@@ -17,7 +20,7 @@ const Header = () => {
         </div>
       </div>
       <div className="Header__mid">
-        <img src={process.env.PUBLIC_URL + `assets/imgs/150-13.png`} />
+        <img style={{width: "391px", height: "141px" }}src={process.env.PUBLIC_URL + `assets/imgs/150-13.png`} />
       </div>
 
       <div className="Header__bottom">

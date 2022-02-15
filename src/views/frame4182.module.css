@@ -1,0 +1,3164 @@
+.container {
+  min-height: 100vh;
+}
+.Frame4182 {
+  width: 1920px;
+  height: 3420px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1920px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 244, 240, 1);
+}
+.image {
+  top: 180px;
+  left: 762px;
+  width: 393px;
+  height: 141px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text {
+  top: 108px;
+  left: 427px;
+  color: rgba(64, 54, 52, 1);
+  width: 106px;
+  height: 15px;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Light;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.svg {
+  top: 117.719970703125px;
+  left: 548.4000244140625px;
+  width: 700;
+  height: 1px;
+  position: absolute;
+}
+.image01 {
+  top: 106px;
+  left: 396px;
+  width: 27px;
+  height: 21px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text001 {
+  top: 113px;
+  left: 1295px;
+  color: rgba(64, 54, 52, 1);
+  width: 42px;
+  height: 12px;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Light;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text002 {
+  top: 113px;
+  left: 1378px;
+  color: rgba(64, 54, 52, 1);
+  width: 53px;
+  height: 12px;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Light;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.image02 {
+  top: 103px;
+  left: 1255px;
+  width: 37px;
+  height: 33px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image03 {
+  top: 102px;
+  left: 1346px;
+  width: 37px;
+  height: 33px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text003 {
+  top: 113px;
+  left: 1477px;
+  color: rgba(64, 54, 52, 1);
+  width: 42px;
+  height: 12px;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Light;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.image04 {
+  top: 102px;
+  left: 1444px;
+  width: 37px;
+  height: 33px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.svg01 {
+  top: 354px;
+  left: 397px;
+  width: 1125;
+  height: 1px;
+  position: absolute;
+}
+.text004 {
+  top: 361px;
+  left: 396px;
+  color: rgba(64, 54, 53, 1);
+  width: 252px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.svg02 {
+  top: 361.5px;
+  left: 651.0999755859375px;
+  width: 22;
+  height: 1px;
+  position: absolute;
+}
+.text005 {
+  top: 360px;
+  left: 850px;
+  color: rgba(64, 54, 53, 1);
+  width: 252px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text006 {
+  top: 961px;
+  left: 410px;
+  color: rgba(64, 54, 53, 1);
+  width: 33px;
+  height: 18px;
+  position: absolute;
+  font-size: 17px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.svg03 {
+  top: 361.5px;
+  left: 1283.19921875px;
+  width: 22;
+  height: 1px;
+  position: absolute;
+}
+.text007 {
+  top: 363px;
+  left: 1306px;
+  color: rgba(64, 54, 53, 1);
+  width: 254px;
+  height: 18px;
+  position: absolute;
+  font-size: 17px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.image05 {
+  top: 855px;
+  left: 379px;
+  width: 95px;
+  height: 95px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image06 {
+  top: 855px;
+  left: 541px;
+  width: 95px;
+  height: 95px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text008 {
+  top: 961px;
+  left: 549px;
+  color: rgba(64, 54, 53, 1);
+  width: 84px;
+  height: 18px;
+  position: absolute;
+  font-size: 17px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text009 {
+  top: 961px;
+  left: 726px;
+  color: rgba(64, 54, 53, 1);
+  width: 66px;
+  height: 18px;
+  position: absolute;
+  font-size: 17px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.image07 {
+  top: 854px;
+  left: 715px;
+  width: 95px;
+  height: 95px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image08 {
+  top: 837px;
+  left: 1423px;
+  width: 99px;
+  height: 87px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image09 {
+  top: 953px;
+  left: 959px;
+  width: 281px;
+  height: 36px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(134, 123, 121, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.image10 {
+  top: 953px;
+  left: 1240px;
+  width: 42px;
+  height: 36px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(134, 123, 121, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.text010 {
+  top: 965px;
+  left: 985px;
+  color: rgba(64, 54, 53, 1);
+  width: 33px;
+  height: 18px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.svg04 {
+  top: 778px;
+  left: 949px;
+  width: 7;
+  height: 7;
+  position: absolute;
+}
+.svg05 {
+  top: 778px;
+  left: 963.5px;
+  width: 7;
+  height: 7;
+  position: absolute;
+}
+.svg06 {
+  top: 778px;
+  left: 978px;
+  width: 7;
+  height: 7;
+  position: absolute;
+}
+.image11 {
+  top: 967px;
+  left: 1029px;
+  width: 11px;
+  height: 9px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image12 {
+  top: 961px;
+  left: 1252px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text011 {
+  top: 973px;
+  left: 1401px;
+  color: rgba(64, 54, 53, 1);
+  width: 39px;
+  height: 11px;
+  position: absolute;
+  font-size: 11px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.image13 {
+  top: 975px;
+  left: 1512px;
+  width: 9px;
+  height: 7px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image14 {
+  top: 1045px;
+  left: 677px;
+  width: 282px;
+  height: 281px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(187, 177, 173, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.text015 {
+  top: 1156px;
+  left: 707.5px;
+  color: rgba(64, 54, 53, 1);
+  width: 203px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.image15 {
+  top: 1939px;
+  left: 954px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image16 {
+  top: 1992px;
+  left: 399px;
+  width: 267px;
+  height: 76px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image17 {
+  top: 2091px;
+  left: 790px;
+  width: 350px;
+  height: 393px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image18 {
+  top: 2602px;
+  left: 391px;
+  width: 267px;
+  height: 75px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image19 {
+  top: 3179px;
+  left: 954px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text016 {
+  top: 3164px;
+  left: 943px;
+  color: rgba(56, 56, 54, 1);
+  width: 34px;
+  height: 12px;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.image20 {
+  top: 2620px;
+  left: 677px;
+  width: 169px;
+  height: 40px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(189, 178, 176, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.text017 {
+  top: 2631px;
+  left: 710px;
+  color: rgba(56, 56, 54, 1);
+  width: 99px;
+  height: 12px;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.image21 {
+  top: 2614px;
+  left: 846px;
+  width: 169px;
+  height: 40px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(189, 178, 176, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(255, 85, 124, 1);
+}
+.text018 {
+  top: 2626px;
+  left: 879px;
+  color: rgba(255, 255, 255, 1);
+  width: 99px;
+  height: 12px;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.image22 {
+  top: 2620px;
+  left: 1015px;
+  width: 169px;
+  height: 40px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(189, 178, 176, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.text019 {
+  top: 2631px;
+  left: 1048px;
+  color: rgba(56, 56, 54, 1);
+  width: 99px;
+  height: 12px;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.image23 {
+  top: 2620px;
+  left: 1184px;
+  width: 169px;
+  height: 40px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(189, 178, 176, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.text020 {
+  top: 2631px;
+  left: 1217px;
+  color: rgba(56, 56, 54, 1);
+  width: 99px;
+  height: 12px;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.image24 {
+  top: 2620px;
+  left: 1353px;
+  width: 169px;
+  height: 40px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(189, 178, 176, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.text021 {
+  top: 2631px;
+  left: 1387px;
+  color: rgba(56, 56, 54, 1);
+  width: 99px;
+  height: 12px;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.image25 {
+  top: 2703px;
+  left: 396px;
+  width: 1126px;
+  height: 427px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(191, 183, 180, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.text022 {
+  top: 2731px;
+  left: 424px;
+  color: rgba(55, 54, 51, 1);
+  width: 363px;
+  height: 26px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text023 {
+  top: 2763px;
+  left: 424px;
+  color: rgba(113, 112, 108, 1);
+  width: 525px;
+  height: 26px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text024 {
+  top: 2782px;
+  left: 424px;
+  color: rgba(113, 112, 108, 1);
+  width: 525px;
+  height: 26px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.svg07 {
+  top: 2816px;
+  left: 424px;
+  width: 1068;
+  height: 1px;
+  position: absolute;
+}
+.text025 {
+  top: 2783px;
+  left: 1444px;
+  color: rgba(116, 115, 111, 1);
+  width: 48px;
+  height: 16px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text026 {
+  top: 2841px;
+  left: 424px;
+  color: rgba(55, 54, 51, 1);
+  width: 363px;
+  height: 26px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text027 {
+  top: 2873px;
+  left: 424px;
+  color: rgba(113, 112, 108, 1);
+  width: 525px;
+  height: 26px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text028 {
+  top: 2892px;
+  left: 424px;
+  color: rgba(113, 112, 108, 1);
+  width: 525px;
+  height: 26px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.svg08 {
+  top: 2926px;
+  left: 424px;
+  width: 1068;
+  height: 1px;
+  position: absolute;
+}
+.text029 {
+  top: 2893px;
+  left: 1444px;
+  color: rgba(116, 115, 111, 1);
+  width: 48px;
+  height: 16px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text030 {
+  top: 2951px;
+  left: 424px;
+  color: rgba(55, 54, 51, 1);
+  width: 363px;
+  height: 26px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text031 {
+  top: 2983px;
+  left: 424px;
+  color: rgba(113, 112, 108, 1);
+  width: 525px;
+  height: 26px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text032 {
+  top: 3002px;
+  left: 424px;
+  color: rgba(113, 112, 108, 1);
+  width: 525px;
+  height: 26px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.svg09 {
+  top: 3036px;
+  left: 424px;
+  width: 1068;
+  height: 1px;
+  position: absolute;
+}
+.text033 {
+  top: 3003px;
+  left: 1444px;
+  color: rgba(116, 115, 111, 1);
+  width: 48px;
+  height: 16px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text034 {
+  top: 2951px;
+  left: 424px;
+  color: rgba(55, 54, 51, 1);
+  width: 363px;
+  height: 26px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text035 {
+  top: 2983px;
+  left: 424px;
+  color: rgba(113, 112, 108, 1);
+  width: 525px;
+  height: 26px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text036 {
+  top: 3002px;
+  left: 424px;
+  color: rgba(113, 112, 108, 1);
+  width: 525px;
+  height: 26px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.svg10 {
+  top: 3036px;
+  left: 424px;
+  width: 1068;
+  height: 1px;
+  position: absolute;
+}
+.text037 {
+  top: 3003px;
+  left: 1444px;
+  color: rgba(116, 115, 111, 1);
+  width: 48px;
+  height: 16px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text038 {
+  top: 3060px;
+  left: 424px;
+  color: rgba(55, 54, 51, 1);
+  width: 363px;
+  height: 26px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text039 {
+  top: 3092px;
+  left: 424px;
+  color: rgba(113, 112, 108, 1);
+  width: 525px;
+  height: 26px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text040 {
+  top: 3092px;
+  left: 1444px;
+  color: rgba(116, 115, 111, 1);
+  width: 48px;
+  height: 16px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.image26 {
+  top: 3259px;
+  left: 1388px;
+  width: 135px;
+  height: 37px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text041 {
+  top: 3260px;
+  left: 396px;
+  color: rgba(70, 60, 58, 1);
+  width: 141px;
+  height: 10px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text042 {
+  top: 3279px;
+  left: 398px;
+  color: rgba(70, 60, 58, 1);
+  width: 431px;
+  height: 10px;
+  position: absolute;
+  font-size: 9px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text046 {
+  top: 3293px;
+  left: 398px;
+  color: rgba(70, 60, 58, 1);
+  width: 456px;
+  height: 10px;
+  position: absolute;
+  font-size: 9px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text047 {
+  top: 3307px;
+  left: 398px;
+  color: rgba(70, 60, 58, 1);
+  width: 456px;
+  height: 10px;
+  position: absolute;
+  font-size: 9px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text048 {
+  top: 3260px;
+  left: 560px;
+  color: rgba(70, 60, 58, 1);
+  width: 38px;
+  height: 10px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text049 {
+  top: 3260px;
+  left: 622px;
+  color: rgba(70, 60, 58, 1);
+  width: 72px;
+  height: 10px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.image27 {
+  top: 1062px;
+  left: 700.5px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image28 {
+  top: 2269px;
+  left: 755px;
+  width: 13px;
+  height: 18px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.image29 {
+  top: 2269px;
+  left: 1151px;
+  width: 13px;
+  height: 18px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text050 {
+  top: 1924px;
+  left: 943px;
+  color: rgba(56, 56, 54, 1);
+  width: 34px;
+  height: 12px;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.svg11 {
+  top: 391.3999938964844px;
+  left: 397px;
+  width: 1125;
+  height: 1px;
+  position: absolute;
+}
+.image30 {
+  top: 391px;
+  left: 397px;
+  width: 1125px;
+  height: 415px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.svg12 {
+  top: 806px;
+  left: 397px;
+  width: 1125;
+  height: 1px;
+  position: absolute;
+}
+.svg13 {
+  top: 3245px;
+  left: 396px;
+  width: 1125;
+  height: 1px;
+  position: absolute;
+}
+.svg14 {
+  top: 3261px;
+  left: 546px;
+  width: 11;
+  height: 1px;
+  position: absolute;
+}
+.svg15 {
+  top: 3261px;
+  left: 608px;
+  width: 11;
+  height: 1px;
+  position: absolute;
+}
+.svg16 {
+  top: 989px;
+  left: 1401px;
+  width: 121;
+  height: 1px;
+  position: absolute;
+}
+.Group2477104 {
+  top: 1045px;
+  left: 396px;
+  width: 282px;
+  height: 281px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.image31 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 281px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(187, 177, 173, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.image32 {
+  top: 17px;
+  left: 23.5px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text051 {
+  top: 111px;
+  left: 30.5px;
+  color: rgba(64, 54, 53, 1);
+  width: 203px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text052 {
+  top: 85px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text053 {
+  top: 156px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text054 {
+  top: 174px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text055 {
+  top: 192px;
+  left: 29.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 220px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text059 {
+  top: 242px;
+  left: 29.5px;
+  color: rgba(90, 76, 76, 1);
+  width: 35px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.Group3477105 {
+  top: 1045px;
+  left: 678px;
+  width: 282px;
+  height: 281px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.image33 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 281px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(187, 177, 173, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.text060 {
+  top: 85px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text061 {
+  top: 156px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text062 {
+  top: 174px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text063 {
+  top: 192px;
+  left: 29.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 220px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text067 {
+  top: 242px;
+  left: 29.5px;
+  color: rgba(90, 76, 76, 1);
+  width: 35px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.Group4477114 {
+  top: 1045px;
+  left: 960px;
+  width: 282px;
+  height: 281px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.image34 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 281px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(187, 177, 173, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.image35 {
+  top: 17px;
+  left: 23.5px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text068 {
+  top: 111px;
+  left: 30.5px;
+  color: rgba(64, 54, 53, 1);
+  width: 203px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text069 {
+  top: 85px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text070 {
+  top: 156px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text071 {
+  top: 174px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text072 {
+  top: 192px;
+  left: 29.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 220px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text076 {
+  top: 242px;
+  left: 29.5px;
+  color: rgba(90, 76, 76, 1);
+  width: 35px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.Group5477123 {
+  top: 1045px;
+  left: 1240px;
+  width: 282px;
+  height: 281px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.image36 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 281px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(187, 177, 173, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.image37 {
+  top: 17px;
+  left: 23.5px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text077 {
+  top: 111px;
+  left: 30.5px;
+  color: rgba(64, 54, 53, 1);
+  width: 203px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text078 {
+  top: 85px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text079 {
+  top: 156px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text080 {
+  top: 174px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text081 {
+  top: 192px;
+  left: 29.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 220px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text085 {
+  top: 242px;
+  left: 29.5px;
+  color: rgba(90, 76, 76, 1);
+  width: 35px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.Group6477141 {
+  top: 1326px;
+  left: 396px;
+  width: 282px;
+  height: 281px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.image38 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 281px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(187, 177, 173, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.image39 {
+  top: 17px;
+  left: 23.5px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text086 {
+  top: 111px;
+  left: 30.5px;
+  color: rgba(64, 54, 53, 1);
+  width: 203px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text087 {
+  top: 85px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text088 {
+  top: 156px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text089 {
+  top: 174px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text090 {
+  top: 192px;
+  left: 29.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 220px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text094 {
+  top: 242px;
+  left: 29.5px;
+  color: rgba(90, 76, 76, 1);
+  width: 35px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.Group7477150 {
+  top: 1326px;
+  left: 678px;
+  width: 282px;
+  height: 281px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.image40 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 281px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(187, 177, 173, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.image41 {
+  top: 17px;
+  left: 23.5px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text095 {
+  top: 111px;
+  left: 30.5px;
+  color: rgba(64, 54, 53, 1);
+  width: 203px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text096 {
+  top: 85px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text097 {
+  top: 156px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text098 {
+  top: 174px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text099 {
+  top: 192px;
+  left: 29.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 220px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text103 {
+  top: 242px;
+  left: 29.5px;
+  color: rgba(90, 76, 76, 1);
+  width: 35px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.Group8477159 {
+  top: 1326px;
+  left: 960.5px;
+  width: 282px;
+  height: 281px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.image42 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 281px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(187, 177, 173, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.image43 {
+  top: 17px;
+  left: 23.5px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text104 {
+  top: 111px;
+  left: 30.5px;
+  color: rgba(64, 54, 53, 1);
+  width: 203px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text105 {
+  top: 85px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text106 {
+  top: 156px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text107 {
+  top: 174px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text108 {
+  top: 192px;
+  left: 29.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 220px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text112 {
+  top: 242px;
+  left: 29.5px;
+  color: rgba(90, 76, 76, 1);
+  width: 35px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.Group9477168 {
+  top: 1326px;
+  left: 1240.5px;
+  width: 282px;
+  height: 281px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.image44 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 281px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(187, 177, 173, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.image45 {
+  top: 17px;
+  left: 23.5px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text113 {
+  top: 111px;
+  left: 30.5px;
+  color: rgba(64, 54, 53, 1);
+  width: 203px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text114 {
+  top: 85px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text115 {
+  top: 156px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text116 {
+  top: 174px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text117 {
+  top: 192px;
+  left: 29.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 220px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text121 {
+  top: 242px;
+  left: 29.5px;
+  color: rgba(90, 76, 76, 1);
+  width: 35px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.Group10477177 {
+  top: 1607px;
+  left: 396px;
+  width: 282px;
+  height: 281px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.image46 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 281px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(187, 177, 173, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.image47 {
+  top: 17px;
+  left: 23.5px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text122 {
+  top: 111px;
+  left: 30.5px;
+  color: rgba(64, 54, 53, 1);
+  width: 203px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text123 {
+  top: 85px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text124 {
+  top: 156px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text125 {
+  top: 174px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text126 {
+  top: 192px;
+  left: 29.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 220px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text130 {
+  top: 242px;
+  left: 29.5px;
+  color: rgba(90, 76, 76, 1);
+  width: 35px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.Group11477186 {
+  top: 1607px;
+  left: 678px;
+  width: 282px;
+  height: 281px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.image48 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 281px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(187, 177, 173, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.image49 {
+  top: 17px;
+  left: 23.5px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text131 {
+  top: 111px;
+  left: 30.5px;
+  color: rgba(64, 54, 53, 1);
+  width: 203px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text132 {
+  top: 85px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text133 {
+  top: 156px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text134 {
+  top: 174px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text135 {
+  top: 192px;
+  left: 29.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 220px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text139 {
+  top: 242px;
+  left: 29.5px;
+  color: rgba(90, 76, 76, 1);
+  width: 35px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.Group12477195 {
+  top: 1607px;
+  left: 960.5px;
+  width: 282px;
+  height: 281px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.image50 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 281px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(187, 177, 173, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.image51 {
+  top: 17px;
+  left: 23.5px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text140 {
+  top: 111px;
+  left: 30.5px;
+  color: rgba(64, 54, 53, 1);
+  width: 203px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text141 {
+  top: 85px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text142 {
+  top: 156px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text143 {
+  top: 174px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text144 {
+  top: 192px;
+  left: 29.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 220px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text148 {
+  top: 242px;
+  left: 29.5px;
+  color: rgba(90, 76, 76, 1);
+  width: 35px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.Group13477204 {
+  top: 1607px;
+  left: 1240.5px;
+  width: 282px;
+  height: 281px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.image52 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 281px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(187, 177, 173, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.image53 {
+  top: 17px;
+  left: 23.5px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.text149 {
+  top: 111px;
+  left: 30.5px;
+  color: rgba(64, 54, 53, 1);
+  width: 203px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text150 {
+  top: 85px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 18px;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text151 {
+  top: 156px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text152 {
+  top: 174px;
+  left: 28.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text153 {
+  top: 192px;
+  left: 29.5px;
+  color: rgba(63, 53, 52, 1);
+  width: 220px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text157 {
+  top: 242px;
+  left: 29.5px;
+  color: rgba(90, 76, 76, 1);
+  width: 35px;
+  height: 12px;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.Group14477218 {
+  top: 2091px;
+  left: 396px;
+  width: 340px;
+  height: 381px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.image54 {
+  top: 0px;
+  left: 0px;
+  width: 340px;
+  height: 381px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(187, 177, 173, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.text158 {
+  top: 53px;
+  left: 103px;
+  color: rgba(63, 53, 52, 1);
+  width: 124px;
+  height: 18px;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text159 {
+  top: 212px;
+  left: 52px;
+  color: rgba(56, 56, 54, 1);
+  width: 234px;
+  height: 12px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text160 {
+  top: 190px;
+  left: 82px;
+  color: rgba(56, 56, 54, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text161 {
+  top: 88px;
+  left: 123px;
+  color: rgba(63, 53, 52, 1);
+  width: 91px;
+  height: 31px;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text162 {
+  top: 122px;
+  left: 123px;
+  color: rgba(63, 53, 52, 1);
+  width: 91px;
+  height: 31px;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text163 {
+  top: 234px;
+  left: 69px;
+  color: rgba(56, 56, 54, 1);
+  width: 234px;
+  height: 12px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text164 {
+  top: 256px;
+  left: 67px;
+  color: rgba(56, 56, 54, 1);
+  width: 234px;
+  height: 12px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text165 {
+  top: 278px;
+  left: 119px;
+  color: rgba(56, 56, 54, 1);
+  width: 102px;
+  height: 12px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text166 {
+  top: 300px;
+  left: 95px;
+  color: rgba(56, 56, 54, 1);
+  width: 150px;
+  height: 12px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.Group15479239 {
+  top: 2091px;
+  left: 1182px;
+  width: 340px;
+  height: 381px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.image55 {
+  top: 0px;
+  left: 0px;
+  width: 340px;
+  height: 381px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(187, 177, 173, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  background-color: rgba(196, 196, 196, 0);
+}
+.text167 {
+  top: 53px;
+  left: 103px;
+  color: rgba(63, 53, 52, 1);
+  width: 124px;
+  height: 18px;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text168 {
+  top: 212px;
+  left: 52px;
+  color: rgba(56, 56, 54, 1);
+  width: 234px;
+  height: 12px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text169 {
+  top: 190px;
+  left: 82px;
+  color: rgba(56, 56, 54, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text170 {
+  top: 88px;
+  left: 123px;
+  color: rgba(63, 53, 52, 1);
+  width: 91px;
+  height: 31px;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text171 {
+  top: 122px;
+  left: 123px;
+  color: rgba(63, 53, 52, 1);
+  width: 91px;
+  height: 31px;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text172 {
+  top: 234px;
+  left: 69px;
+  color: rgba(56, 56, 54, 1);
+  width: 234px;
+  height: 12px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text173 {
+  top: 256px;
+  left: 67px;
+  color: rgba(56, 56, 54, 1);
+  width: 234px;
+  height: 12px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text174 {
+  top: 278px;
+  left: 119px;
+  color: rgba(56, 56, 54, 1);
+  width: 102px;
+  height: 12px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text175 {
+  top: 300px;
+  left: 95px;
+  color: rgba(56, 56, 54, 1);
+  width: 150px;
+  height: 12px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text176 {
+  top: 2144px;
+  left: 884px;
+  color: rgba(63, 53, 52, 1);
+  width: 124px;
+  height: 18px;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text177 {
+  top: 2303px;
+  left: 833px;
+  color: rgba(56, 56, 54, 1);
+  width: 234px;
+  height: 12px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text178 {
+  top: 2281px;
+  left: 863px;
+  color: rgba(56, 56, 54, 1);
+  width: 211px;
+  height: 12px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text179 {
+  top: 2179px;
+  left: 904px;
+  color: rgba(63, 53, 52, 1);
+  width: 91px;
+  height: 31px;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text180 {
+  top: 2213px;
+  left: 904px;
+  color: rgba(63, 53, 52, 1);
+  width: 91px;
+  height: 31px;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Bold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text181 {
+  top: 2325px;
+  left: 850px;
+  color: rgba(56, 56, 54, 1);
+  width: 234px;
+  height: 12px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text182 {
+  top: 2347px;
+  left: 848px;
+  color: rgba(56, 56, 54, 1);
+  width: 234px;
+  height: 12px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text183 {
+  top: 2369px;
+  left: 900px;
+  color: rgba(56, 56, 54, 1);
+  width: 102px;
+  height: 12px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.text184 {
+  top: 2391px;
+  left: 876px;
+  color: rgba(56, 56, 54, 1);
+  width: 150px;
+  height: 12px;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: KoPubDotum Medium;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
